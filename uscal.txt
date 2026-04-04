@@ -1,0 +1,55 @@
+UNITED SOFTWARE CREATORS ALLIANCE LICENSE (USCAL)
+Version 1.0, April 2026
+
+2026 United Software Creators Alliance (USCA)
+
+────────────────────────────────────────────────────────
+
+0. Definitions.
+
+   "Software" — any code, documentation, scripts,
+   configuration files, and related files distributed under this license.
+
+   "Author" — the developer or organization that created the Software.
+
+   "You" — the individual or organization using the Software.
+
+1. Rights.
+
+   You may:
+   • Use the Software for any purpose (personal, educational, commercial).
+   • Modify the Software and create derivative works.
+   • Distribute original or modified Software.
+   • Sublicense the Software.
+
+   These rights are granted perpetually, free of charge, and without royalties.
+
+2. Obligations.
+
+   You must:
+   • Retain the copyright notice and this license in the code.
+   • Attribute the original author (Michael / USCA) in the documentation.
+   • When distributing modifications, indicate that they have been changed.
+
+   You must NOT:
+   • Use the author's name or USCA for endorsement without permission.
+   • Misrepresent modified versions as the original Software.
+
+3. Philosophy (not legally binding, but encouraged).
+
+   • Made with soul. Not for destruction, but for creation.
+   • Code must be open. Knowledge must be free.
+   • Embedded systems are art. Respect it.
+
+4. Disclaimer of Warranty.
+
+   The Software is provided "AS IS", without any warranties.
+   The Author is not liable for any damages arising from the use of the Software.
+
+5. Governing Law.
+
+   This license is governed by the laws of the author's country.
+   In case of disputes, the parties agree to resolve them peacefully.
+
+────────────────────────────────────────────────────────
+Version: USCAL 1.0 | Approved by USCA
