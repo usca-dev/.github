@@ -17,3 +17,5 @@
 **United Software Creators Alliance** is a global community of developers, engineers, and innovators building the next generation of open-source software for embedded systems and beyond.
 
 We believe that **code can change the world** — and we're proving it, one project at a time.
+
+Out license: ![United Software Creators Alliance License (USCAL)](United Software Creators Alliance)
