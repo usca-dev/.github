@@ -18,4 +18,4 @@
 
 We believe that **code can change the world** — and we're proving it, one project at a time.
 
-Our license: ![United Software Creators Alliance License(https://github.com/usca-dev/.github/raw/refs/heads/main/uscal.txt)
+Our license: ![United Software Creators Alliance License](https://github.com/usca-dev/.github/raw/refs/heads/main/uscal.txt)
